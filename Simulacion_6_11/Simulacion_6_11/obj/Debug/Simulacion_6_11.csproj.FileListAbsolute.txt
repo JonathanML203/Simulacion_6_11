@@ -1,0 +1,12 @@
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\bin\Debug\Simulacion_6_11.exe.config
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\bin\Debug\Simulacion_6_11.exe
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\bin\Debug\Simulacion_6_11.pdb
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\bin\Debug\MathNet.Numerics.dll
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\bin\Debug\System.ValueTuple.dll
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\bin\Debug\MathNet.Numerics.xml
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\bin\Debug\System.ValueTuple.xml
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\obj\Debug\Simulacion_6_11.csproj.AssemblyReference.cache
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\obj\Debug\Simulacion_6_11.csproj.CoreCompileInputs.cache
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\obj\Debug\Simulaci.C18FA8BE.Up2Date
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\obj\Debug\Simulacion_6_11.exe
+D:\source\repos\Simulacion_6_11\Simulacion_6_11\obj\Debug\Simulacion_6_11.pdb
